@@ -25,7 +25,7 @@ https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="News" tvg-logo="https://i.imgur.com/h3TY38F.png",Nation TV
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Workpoint_Ch23.svg",Workpoint TV
-https://global-media.sooplive.com/live/workpoint/master.m3u8
+http://global-media.sooplive.com/live/workpoint/master.m3u8
 #EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" group-title="Entertainment" tvg-logo="https://i.imgur.com/O6Xre1O.png",True 4U
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" group-title="General" tvg-logo="https://i.imgur.com/uARba6N.png",GMM 25
