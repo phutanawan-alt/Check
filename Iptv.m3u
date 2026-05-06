@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="3HD.th@SD" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General",3HD
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776006&extension=m3u8
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-id="Channel5.th@SD" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="General",Channel 5 (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 HD (1080p)
